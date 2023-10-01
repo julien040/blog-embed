@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "streamlit-julienc"
+version = "0.1.0"
+description = "A streamlit app for ressources on my website"
+authors = ["Julien <48369040+julien040@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.27.1"
+watchdog = "^3.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
