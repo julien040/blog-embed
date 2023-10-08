@@ -90,3 +90,7 @@ pyrightconfig.json
 
 # Gut
 .gut
+
+# Poetry
+poetry.lock
+pyproject.toml
